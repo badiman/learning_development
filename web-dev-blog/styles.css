@@ -1,0 +1,48 @@
+/* 添加 CSS */
+
+.title {
+ padding-left: 15px;
+}
+
+body {
+	border: ridge;
+	width: 325px;
+	box-shadow: 10px 5px 5px grey;	
+}
+
+.container {
+	font-style: italic;
+	padding: 5px 5px 10px 5px;
+}
+.img {
+    width: 300px;
+	height: 200px;
+	margin-left: 5px;
+	margin-right: 10px;
+	padding: 5px 5px 10px 5px;
+}
+
+span {
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 10px;
+	list-style-type: none;    
+}
+
+li {
+	list-style-type: none;
+}
+.description {
+	width: 280px;
+	border: ridge;
+	font-size: 9px;
+	margin:10px 5px 10px 10px;
+	padding: 10px 10px 10px 10px;
+}
+
+.introduction {
+	padding: 5px 5px 10px 5px;
+
+}
+
+
