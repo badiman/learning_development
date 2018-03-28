@@ -20,3 +20,30 @@ body {
     margin-top:20px;
     
 }
+
+.header {
+      min-height: 56px;
+  }
+   
+  .nav{
+    box-sizing: border-box;
+    display:inline;
+    text-align: right;
+  }
+
+  .nav__list{
+  width:100%;
+  }
+  
+  .nav__item{
+    margin-left: 5px;
+    margin-right: 5px;
+    display:inline;
+    font-family: 'Lato',sans-serif;
+    color: #747704;
+    font-weight: 300;
+  }
+  
+  
+ 
+  
